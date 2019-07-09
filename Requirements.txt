@@ -1,0 +1,9 @@
+I will update this list with a more detailed version later
+
+Python3.6 or higher
+Tensorflow-1.13 (We will not be using Tensorflow 2.0 for this tutorial but I intend to make copies of the notebook rewritten
+with Tensorflow 2.0 before the end of July 2019)
+Jupyter-notebook
+Matplotlib
+Seaborn
+Numpy
